@@ -1,0 +1,13 @@
+{
+  "name": "pre-entrega-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["pre-entrega-lab","talento","tech","talento-tech","api","node"],
+  "author": "ANDRES GILLI",
+  "license": "MIT"
+}
